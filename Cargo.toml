@@ -1,8 +1,8 @@
 [package]
 name = "swt-rs"
 version = "0.1.0"
-authors = ["jbaatz3 <jbaatz@gatech.edu>"]
+authors = ["jeffrobots"]
 
 [dependencies]
-cpython = "0.1"
+image = "0.18.0"
 imageproc = "0.13.0"
